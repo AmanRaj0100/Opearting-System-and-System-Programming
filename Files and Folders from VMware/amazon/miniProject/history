@@ -1,0 +1,7 @@
+mycat data.txt 
+myhead data.txt 
+mytail data.txt 
+exit shell 
+exit shell 
+mycat data.txt 
+myhead data.txt 
