@@ -1,0 +1,17 @@
+# Here are the list of books available in the inventory
+#Format: Book Name,Author,Publisher,Total Copies
+
+Rich Dad Poor Dad,Robert Kiyosaki,Warner Books,32
+A Really Short History of Nearly Everything,Bill Bryson,Doubleday and Broadway Books,21
+Atomic Habits,James Clear,Penguin Random House,12
+The Psychology of Money,Housel Morgan,Jaico Publishing House,28
+Sapiens,Yuval Noah Harari,Dvir Publishing House Ltd Random House Harper,20
+The Subtle Art of Not Giving A Fuck,Mark Manson,HarperOne,18
+# Here are the list of books available in the inventory
+#Format: Book Name,Author,Publisher,Total Copies
+
+A Really Short History of Nearly Everything,Bill Bryson,Doubleday and Broadway Books,21
+Atomic Habits,James Clear,Penguin Random House,12
+The Psychology of Money,Housel Morgan,Jaico Publishing House,28
+Sapiens,Yuval Noah Harari,Dvir Publishing House Ltd Random House Harper,20
+The Subtle Art of Not Giving A Fuck,Mark Manson,HarperOne,18

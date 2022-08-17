@@ -1,0 +1,25 @@
+enter a number"
+  2 
+  3 read num
+  4 i=1
+  5 sum=0
+  6 while [$i -lt $num]
+  7 do
+  8         if [ -eq 0 ]
+  9         then
+ 10                 sum=`expr $sum + $i`
+ 11                 $i=`expr $i + 1`
+ 12         fi
+ 13 done
+ 14 if [$sum -eq $num]
+ 15 then
+ 16         echo "Its a perfect number"
+ 17 else
+ 18         echo "Not a perfect number"
+ 19 fi
+ 20 
+
+
+divide line 8 in two lines
+Prashant 1: rem=`expr $num % i`
+Prashant 1: if test $rem -eq 0

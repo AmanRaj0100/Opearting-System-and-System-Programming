@@ -1,0 +1,17 @@
+1. take some filenames from commandline arguments and rename those file names with _1
+x -> x_1
+y-> y_1
+
+
+2. Take some numbers from commandline and find sum of all numbers
+   maximum number and minmum number
+
+3. write file operations for following options using switch case
+ -create
+ -read
+ -write
+ -append
+ -delete
+ -rename
+ -showperm
+ -showlinecharwordcount

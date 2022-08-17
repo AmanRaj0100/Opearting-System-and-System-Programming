@@ -1,0 +1,23 @@
+chmod
+1. A file earth.txt has permissions of 0646, what will the command 'chmod o+w earth.txt' do?
+A. it doesn't change anything in the context of file permissions			
+B. it gives an error saying permissions are already the same		
+C. it gives an error saying permissions can not be changed for others, unless changed for group too. 
+D. it removes the write permission for others
+Answer A
+
+ls 
+2. Which command helps you view the list of files & directories within a folder ?
+A. ls 		
+B. view
+C. display
+D. show
+Answer : A
+
+mv (rename a file)
+3. What would be the command if you have to rename a file one.txt to two.txt
+A. rename one.txt two.txt
+B. alias one.txt two.txt
+C. rn one.txt two.txt
+D. mv one.txt two.txt
+Answer: D

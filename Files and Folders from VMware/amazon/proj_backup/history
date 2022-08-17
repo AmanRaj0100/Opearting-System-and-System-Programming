@@ -1,0 +1,66 @@
+mycat data.txt 
+mycat data.txt 
+mycp data.txt code.txt
+mymv code.txt text.txt
+show history 
+myrm code.txt 
+myrm text.txt 
+myhead data.txt 
+mytail data.txt 
+mycat data.txt 
+mycat data.txt 
+mycp data.txt code.txt
+mymv code.txt text.txt
+show history 
+myrm code.txt 
+myrm text.txt 
+myhead data.txt 
+mytail data.txt 
+mycat data.txt 
+mycat data.txt 
+mycp data.txt code.txt
+mymv code.txt text.txt
+show history 
+myrm code.txt 
+myrm text.txt 
+myhead data.txt 
+mytail data.txt 
+mycat data.txt 
+mycat data.txt 
+mycp data.txt code.txt
+mymv code.txt text.txt
+show history 
+myrm code.txt 
+myrm text.txt 
+myhead data.txt 
+mytail data.txt 
+mycat data.txt 
+mycat data.txt 
+mycp data.txt code.txt
+mymv code.txt text.txt
+show history 
+myrm code.txt 
+myrm text.txt 
+myhead data.txt 
+mytail data.txt 
+mycat data.txt 
+mycat data.txt 
+mycp data.txt code.txt
+mymv code.txt text.txt
+show history 
+myrm code.txt 
+myrm text.txt 
+myhead data.txt 
+mytail data.txt 
+mycat data.txt 
+mycat data.txt 
+mycp data.txt code.txt
+mymv code.txt text.txt
+show history 
+myrm code.txt 
+myrm text.txt 
+myhead data.txt 
+mytail data.txt 
+mission accomplished
+show history 
+exit shell 

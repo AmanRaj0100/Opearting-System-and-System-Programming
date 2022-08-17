@@ -1,0 +1,22 @@
+If I am searching for a word "linux" in a text file and also need the line number where it occurs, then which option suits best with grep: 
+A. -num		
+B. -numeric		
+C. -number
+D. -n
+Answer B
+
+
+2. There is a file named life and we run the command sort -R life.txt. What do we get in return?
+A. randomly sorted life is put on the screen	
+B. life is displayed as jumbled up
+C. life doesn't change, but something somewhere gets sorted
+D. looks like all options are true (pretty much like my life)
+Answer : D
+
+
+3. What would be a neater way to convert to lower case to upper case in a Linux file?
+A. use the tr command
+B. use the convert command
+C. do it manually 
+D. delegate it to a younger sibling
+Answer: A

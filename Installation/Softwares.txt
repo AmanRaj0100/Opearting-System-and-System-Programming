@@ -1,0 +1,2 @@
+1. ubuntu-22.04-desktop-amd64.iso
+2. VMware-player-full-16.2.3-19376536.exe

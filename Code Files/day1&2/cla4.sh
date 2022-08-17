@@ -1,0 +1,2 @@
+echo "Calculator appliaction"
+echo $@
